@@ -1,0 +1,21 @@
+E:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+E:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Wrong.resources
+E:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\QQPCmgr\Documents\VS_Projects\Projects2010\霸气登录界面+串口调试助手\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\QQPCmgr\Documents\VS_Projects\Projects2010\霸气登录界面+串口调试助手\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\QQPCmgr\Documents\VS_Projects\Projects2010\霸气登录界面+串口调试助手\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+E:\QQPCmgr\Documents\VS_Projects\Projects2010\霸气登录界面+串口调试助手\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Wrong.resources
+E:\QQPCmgr\Documents\VS_Projects\Projects2010\霸气登录界面+串口调试助手\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\QQPCmgr\Documents\VS_Projects\Projects2010\霸气登录界面+串口调试助手\WindowsFormsApplication1\bin\Debug\霸气登录界面+串口调试助手.exe
+E:\QQPCmgr\Documents\VS_Projects\Projects2010\霸气登录界面+串口调试助手\WindowsFormsApplication1\bin\Debug\霸气登录界面+串口调试助手.pdb
+E:\QQPCmgr\Documents\VS_Projects\Projects2010\霸气登录界面+串口调试助手\WindowsFormsApplication1\obj\x86\Debug\Login_SerialPort.Properties.Resources.resources
+E:\QQPCmgr\Documents\VS_Projects\Projects2010\霸气登录界面+串口调试助手\WindowsFormsApplication1\obj\x86\Debug\霸气登录界面+串口调试助手.exe
+E:\QQPCmgr\Documents\VS_Projects\Projects2010\霸气登录界面+串口调试助手\WindowsFormsApplication1\obj\x86\Debug\霸气登录界面+串口调试助手.pdb
