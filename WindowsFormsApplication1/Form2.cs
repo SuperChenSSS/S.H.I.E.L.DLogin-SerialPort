@@ -47,7 +47,10 @@ namespace WindowsFormsApplication1
             var result = MessageBox.Show("Program will exit,Are you sure?","Exit",
                 MessageBoxButtons.YesNo,MessageBoxIcon.Question);
             if (result == DialogResult.Yes)
+            {
+                this.Hide();
                 this.Close();
+            }
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
