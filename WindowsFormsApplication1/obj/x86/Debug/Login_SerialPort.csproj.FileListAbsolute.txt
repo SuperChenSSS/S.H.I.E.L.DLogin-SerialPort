@@ -9,3 +9,7 @@ E:\QQPCmgr\Documents\VS_Projects\Projects2010\霸气登录界面+串口调试助
 E:\QQPCmgr\Documents\VS_Projects\Projects2010\霸气登录界面+串口调试助手\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Wrong.resources
 E:\QQPCmgr\Documents\VS_Projects\Projects2010\霸气登录界面+串口调试助手\WindowsFormsApplication1\obj\x86\Debug\Login_SerialPort.csproj.GenerateResource.Cache
 E:\QQPCmgr\Documents\VS_Projects\Projects2010\霸气登录界面+串口调试助手\WindowsFormsApplication1\obj\x86\Debug\Login_SerialPort.csprojResolveAssemblyReference.cache
+E:\QQPCmgr\Documents\VS_Projects\Projects2010\霸气登录界面+串口调试助手\WindowsFormsApplication1\bin\Debug\霸气登录界面+串口调试助手.exe.manifest
+E:\QQPCmgr\Documents\VS_Projects\Projects2010\霸气登录界面+串口调试助手\WindowsFormsApplication1\bin\Debug\霸气登录界面+串口调试助手.application
+E:\QQPCmgr\Documents\VS_Projects\Projects2010\霸气登录界面+串口调试助手\WindowsFormsApplication1\obj\x86\Debug\霸气登录界面+串口调试助手.exe.manifest
+E:\QQPCmgr\Documents\VS_Projects\Projects2010\霸气登录界面+串口调试助手\WindowsFormsApplication1\obj\x86\Debug\霸气登录界面+串口调试助手.application

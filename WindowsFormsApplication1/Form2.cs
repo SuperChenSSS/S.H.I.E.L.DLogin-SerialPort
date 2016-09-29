@@ -39,6 +39,8 @@ namespace WindowsFormsApplication1
             {
                 Wrong wr = new Wrong();
                 wr.Show();
+                textBox1.Text = "";
+                textBox2.Text = "";
             }
         }
 
